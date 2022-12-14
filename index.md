@@ -1,4 +1,4 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Street-view Housing Number Digit Recognition](/pdf/sample_presentation.pdf)
+[Street-view Housing Number Digit Recognition](https://rija-ansari.github.io/data_science_projects/Rija ACNN_SVHN.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -30,6 +30,3 @@
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
