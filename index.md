@@ -5,15 +5,15 @@
 ### Notable Projects  
 
 [Malaria Detection: Capstone Project](https://rija-ansari.github.io/data_science_projects/Rija_Ansari_Malaria_Detection_Final.html)
-<img src="images/malariaicon.001.jpeg?raw=true" width="3102" height="1924"/>
+<img src="images/malariaicon.001.jpeg?raw=true" width="2327" height="1443"/>
 
 ---
 [Street-view Housing Number Digit Recognition](https://rija-ansari.github.io/data_science_projects/Rija ACNN_SVHN.html)
-<img src="images/SVHNicon.001.jpeg?raw=true" width="3102" height="1924"/>
+<img src="images/SVHNicon.001.jpeg?raw=true" width="2327" height="1443"/>
 
 ---
 [Analysis of Genetic and Environmental Factors Resulting in Diabetes](https://rija-ansari.github.io/data_science_projects/RijaAnsari-PimaIndiansDiabetesAnalysis-2.html)
-<img src="images/diabetesicon.001.jpeg?raw=true" width="3102" height="1924"/>
+<img src="images/diabetesicon.001.jpeg?raw=true" width="2327" height="1443"/>
 
 ---
 
